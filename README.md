@@ -1,8 +1,6 @@
 # Mvc.Spa.Vue
 Integrating Vue.js 2.0 to .NET MVC5 Project 
 
-=============================================== Integrating Vue.js 2.0 to .NET MVC5 Project ========================================================
-
 https://medium.com/@hyounoosung/integrating-vue-js-2-0-to-net-mvc5-project-f97eb5a5b3ad
 
 
@@ -20,5 +18,6 @@ npm install
 4. Build
 npm run build
 
-=============================================== Building Web apps with VueJS and dotNet ========================================================
+==================================================================
+Building Web apps with VueJS and dotNet 
 http://www.lambdatwist.com/dot-net-vuejs/
